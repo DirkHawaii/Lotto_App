@@ -1,0 +1,38 @@
+# .gitignore file for Dirk Harriman Lotto Application site
+# IGNORE THE js FOLDER AND ITS SUB FOLDERS EXCEPT lotto-app.js
+js/bootstrap.bundle.js
+js/bootstrap.bundle.min.js
+js/bootstrap.js
+js/bootstrap.min.js
+js/docs.min.js
+js/ie10-viewport-bug-workaround.js
+js/ie-emulation-modes-warning.js
+js/jquery.js
+js/jquery.min.js
+js/jquery-ui.js
+js/jquery-ui.min.js
+js/popper.min.js
+js/easing/
+js/plugins/
+js/unit/
+js/utils/
+js/vendor/
+
+# IGNORE THE css FOLDER CONTENTS EXCEPT lotto-app.css
+css/animate.css
+css/bootstrap.css
+css/bootstrap.min.css
+css/bootstrap-grid.css
+css/bootstrap-grid.min.css
+css/bootstrap-reboot.css
+css/bootstrap-reboot.min.css
+css/flexslider.css
+css/ie10-viewport-bug-workaround.css
+css/jquery-ui.css
+css/jquery-ui.min.css
+css/jquery-ui.structure.css
+css/jquery-ui.structure.min.css
+css/jquery-ui.theme.css
+css/jquery-ui.theme.min.css
+css/queries.css
+css/images/
